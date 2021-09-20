@@ -4,7 +4,7 @@ Introduction to Deep Learning for Image Classification
 This repo contains my notes from class and the papers I presented on.
 
 ## Paper presentation notes
-**1. Batch Normalization**
+**1. [Batch Normalization](https://github.com/malloyca/CSC578B/blob/main/Batch%20Normalization%20Notes.ipynb)**
 > Ioffe, S., & Szegedy, C. (2015, June). Batch normalization: Accelerating deep network training by reducing internal covariate shift. In International conference on machine learning (pp. 448-456). PMLR.
 
 **2. Distilling the Knowledge in a Neural Network**
