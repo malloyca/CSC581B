@@ -1,7 +1,7 @@
 # CSC578B
 Introduction to Deep Learning for Image Classification
 
-This repo contains my notes from class and the papers I presented on.
+This repo contains my notes from class and the papers I will present on.
 
 ## Paper presentation notes
 **1. [Batch Normalization](https://github.com/malloyca/CSC578B/blob/main/Batch%20Normalization%20Notes.ipynb)**
