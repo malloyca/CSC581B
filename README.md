@@ -1,4 +1,4 @@
-# CSC578B
+# CSC581B
 Introduction to Deep Learning for Image Classification
 
 This repo contains my notes from class and the papers I will present on.
